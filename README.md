@@ -1,7 +1,5 @@
-<img align="center" src="https://raw.githubusercontent.com/Priyansh-Gour/Priyansh-Gour/master/assets/banner.gif"/>
-
-<img align="center" src="https://github.com/Priyansh-Gour/Priyansh-Gour/blob/master/assets/about.png?raw=true"/>
-
+-### Hi, I'm Priyansh 👋
+---
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
