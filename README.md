@@ -1,6 +1,6 @@
-<img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/Priyansh-Gour/Priyansh-Gour/master/assets/banner.gif"/>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+<img align="center" src="https://github.com/Priyansh-Gour/Priyansh-Gour/blob/master/assets/about.png?raw=true"/>
 
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
@@ -25,7 +25,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh-Gour&theme=radical&title_color=8E2DE2&text_color=fff)
 
