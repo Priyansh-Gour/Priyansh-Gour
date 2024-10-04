@@ -55,8 +55,7 @@ const priyansh = {
     funFact: "I can debug faster with a coffee in hand!",
 };
 ```
-<br/> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> </p>
-![Priyansh's Github Stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&count_private=true&show_icons=true&include_all_commits=true&icon_color="8E2DE2")
+<br/> <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> </p>
     
 ⭐️ From Priyansh
 
