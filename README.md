@@ -18,6 +18,31 @@
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Chakra UI","Shadcn"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+        },
+        databases: ["MongoDB", "Mysql", "Firebase Realtime DB"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets","WebRTC"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+
+    currentFocus: "Im doing a challange of 100 days of code , Focusing ",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> </p>
