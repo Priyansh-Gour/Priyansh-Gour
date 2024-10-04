@@ -1,15 +1,17 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Priyansh Gour!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <pre>
--### Hi, I'm Priyansh 👋
+## Hi, I'm Priyansh 👋
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 🌱 Learning more about and studying: **Open Source, Nextjs, CS Algorithms**
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: priyanshgour817@gmail.com
+
     
--### 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
+## 📅 Hobbies
+- Playing chess
+- Solve programming problems at LeetCode
 - Watch anime and TV shows
 - Read some manga
 - Play videogames
