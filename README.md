@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh-Gour&theme=radical&title_color=8E2DE2&text_color=fff)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=gotham" alt="priyansh" />
 
 ⭐️ From [priyansh]https://github.com/Priyansh-Gour)
 
