@@ -5,10 +5,16 @@
 -### Hi, I'm Priyansh 👋
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 🌱 Learning more about and studying: **Open Source, Nextjs, CS Algorithms**
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: priyanshgour817@gmail.com
 </pre>
+    ## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watch anime and TV shows
+- Read some manga
+- Play videogames
+- etc...
 </div>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
