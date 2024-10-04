@@ -23,7 +23,7 @@
 ```javascript
 const priyansh = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    code: ["TypeScript", "Javascript", "Python","Java"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
