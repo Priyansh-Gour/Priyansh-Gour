@@ -1,11 +1,11 @@
 -### Hi, I'm Priyansh 👋
 ---
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: priyanshgour817@gmail.com
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 
