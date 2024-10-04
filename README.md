@@ -16,13 +16,12 @@
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=gotham)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Gour&show_icons=true&theme=gotham" alt="priyansh" />
 
 ⭐️ From [priyansh]https://github.com/Priyansh-Gour)
 
